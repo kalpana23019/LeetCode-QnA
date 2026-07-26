@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0176-second-highest-salary) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
