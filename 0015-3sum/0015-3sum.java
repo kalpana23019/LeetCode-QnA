@@ -3,13 +3,11 @@ class Solution {
 
         List<List<Integer>> result = new ArrayList<>();
 
-        // Step 1: Sort the array
+        
         Arrays.sort(nums);
 
-        // Step 2: Traverse the array
         for (int i = 0; i < nums.length - 2; i++) {
 
-            // Skip duplicate elements
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
@@ -26,7 +24,6 @@ class Solution {
 
                     result.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
-                    // Skip duplicate values
                     while (left < right && nums[left] == nums[left + 1]) {
                         left++;
                     }
