@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
