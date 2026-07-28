@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -80,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
