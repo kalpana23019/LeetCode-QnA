@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0344-reverse-string) |
 ## String
 |  |
