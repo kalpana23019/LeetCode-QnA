@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
