@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
@@ -160,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
