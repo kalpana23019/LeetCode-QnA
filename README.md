@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0389-find-the-difference) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
