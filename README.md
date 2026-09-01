@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 ## Stack
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
