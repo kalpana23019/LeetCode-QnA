@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
