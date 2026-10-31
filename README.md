@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/kalpana23019/LeetCode-QnA/tree/master/1929-concatenation-of-array) |
+| [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0416-partition-equal-subset-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
