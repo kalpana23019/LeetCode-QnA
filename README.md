@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/kalpana23019/LeetCode-QnA/tree/master/1929-concatenation-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
