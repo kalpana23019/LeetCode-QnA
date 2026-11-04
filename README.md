@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/kalpana23019/LeetCode-QnA/tree/master/1929-concatenation-of-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0560-subarray-sum-equals-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0416-partition-equal-subset-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
 ## Monotonic Stack
 |  |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0347-top-k-frequent-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
 | ------- |
