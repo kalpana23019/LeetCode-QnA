@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0198-house-robber) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/kalpana23019/LeetCode-QnA/tree/master/3665-twisted-mirror-path-count) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kalpana23019/LeetCode-QnA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
