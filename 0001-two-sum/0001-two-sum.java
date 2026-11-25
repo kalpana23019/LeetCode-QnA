@@ -16,15 +16,15 @@ map.put(nums[i],i);
         return new int[]{};
         
     }
-public static void main(String[] args) {
+// public static void main(String[] args) {
 
-        Solution obj = new Solution();
+//         Solution obj = new Solution();
 
-        int[] nums = {5, 2};
-        int target = 7;
+//         int[] nums = {5, 2};
+//         int target = 7;
 
-        System.out.println(Arrays.toString(obj.twoSum(nums, target)));
-    }
+//         System.out.println(Arrays.toString(obj.twoSum(nums, target)));
+//     }
 
 
 }
